@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Counter-And-LoginPage-Redux-Toolkit/static/css/main.dfe07081.css",
+    "main.js": "/Counter-And-LoginPage-Redux-Toolkit/static/js/main.5337df6c.js",
+    "index.html": "/Counter-And-LoginPage-Redux-Toolkit/index.html",
+    "main.dfe07081.css.map": "/Counter-And-LoginPage-Redux-Toolkit/static/css/main.dfe07081.css.map",
+    "main.5337df6c.js.map": "/Counter-And-LoginPage-Redux-Toolkit/static/js/main.5337df6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe07081.css",
+    "static/js/main.5337df6c.js"
+  ]
+}
